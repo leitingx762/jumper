@@ -2,6 +2,7 @@
 
 #### 介绍
 复刻跳一跳
+[开始游戏](http://airgoo.gitee.io/jumper)
 
 #### 软件架构
 软件架构说明
